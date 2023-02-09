@@ -49,9 +49,9 @@
                         >
                         Events
                         </a>
-                        <ul class="dropdown-menu"
+                        <ul class="dropdown-menu text-end"
                         aria-labelledby="navbarDropdown">
-                            <li><a href="#"
+                            <li><a href="#" 
                             class="dropdown-item">Book Club</a></li>
                             <li><a href="#"
                             class="dropdown-item">Coffee Club</a></li>
