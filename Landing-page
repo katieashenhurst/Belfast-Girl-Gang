@@ -114,50 +114,45 @@ This is a safe space, so have fun here, this is OUR community.
         top: 25px;
         right: 0px;
         left: 0; 
-        padding-bottom: 50px;
         padding: 15px; 
        
     }
   </style>
 
-<div id="myCarousel" class="carousel slide" data-bs-ride="carousel"> 
-        <ol class="carousel-indicators">
-            <li data-target="#myCarousel" data-slide-to="0" class="active">
-            </li>
-            <li data-target="#myCarousel" data-slide-to="1">
-            </li>
-        </ol>
+    <div id="myCarousel" class="coursel slide" 
+    data-bs-ride="carousel">
+    <ol class="carousel-indicators" >
+        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+        <li data-target="#myCarousel" data-slide-to="1"></li>
+    </ol>
         <div class="carousel-inner">
-        <div class="carousel-item active">
-    <div class="container-carousel">
-        <h1>Book Club</h1>
-        <p>Book Club is a monthly meet up organised 
-            by the admins where members come together 
-            to discuss the book topic assigned to that 
-            month. </p>
-        <div class="text-start">
-            <a href="#" class="btn btn-lg btn-light">
-Check it out!
-        </a>
-    </div>
-    </div> 
+            <div class="carousel-item active">
+                <h1>Book Club</h1>
+            <p>Book Club is a monthly meet up organised 
+                by the admins where members come together 
+                to discuss the book topic assigned to that 
+                month. </p>
+            <div class="text-start">
+                <a href="#" class="btn btn-lg btn-light">Check it out!
+            </a>
         </div>
-        <div class="carousel-item">
-    <div class="container-carousel">
-        <h1>Coffee Club</h1>
-        <p>Meet up with and make new friends at this
-            admin organised event where you get to relax and chat at the 
-            chosen cafe that month!
-        </p>
-        <div class="text-start">
-            <a href="#" class="btn btn-lg btn-light">
-Check it out!
-        </a>
-    </div>
-    </div>
+            </div>
+            <div class="carousel-item">
+        <div class="container-carousel">
+            <h1>Coffee Club</h1>
+            <p>Meet up with and make new friends at this
+                admin organised event where you get to relax and chat at the 
+                chosen cafe that month!
+            </p>
+            <div class="text-start">
+                <a href="#" class="btn btn-lg btn-light">
+    Check it out!
+            </a>
+        </div>
+        </div>
+            </div>
         </div>
     </div>
-</div>
 
 
 
