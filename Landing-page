@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.rtl.min.css" integrity="sha384-WJUUqfoMmnfkBLne5uxXj+na/c7sesSJ32gI7GfCk4zO4GthUKhSEGyvQ839BC51" crossorigin="anonymous">
+
+    <title>Belfast Girl Gang</title>
+  </head>
+  <body style="height:2000px">
+        <nav class="navbar navbar-expand-sm navbar-light" style="background-color:pink">
+            <div class="container">
+            <a 
+            href="#"
+            class="navbar-brand mb-0 h1"> 
+                <img 
+                class="d-inline-block align-top" 
+                src="logo.png" 
+                width="50" 
+                height="50"/>
+            </a>
+            <button 
+            type="'button"
+            data-bs-toggle="collapse"
+            data-bs-target="#navbarNav"
+            class="navbar-toggler"
+            aria-controls="navbarNav"
+            aria-expanded="false"
+            aria-label="toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+            <div 
+            class="div collapse navbar-collapse" 
+            id="navbarNav">
+                <ul class="navbar-nav">
+                    <li class="nav-item active">
+                        <a href="#" class="nav-link active">
+                            About Us
+                        </a>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a href="#" class="nav-link 
+                        dropdown-toggle" 
+                        id="navabarDropdown" 
+                        role="button" 
+                        data-bs-toggle="dropdown"
+                        aria-expanded="false"
+                        >
+                        Events
+                        </a>
+                        <ul class="dropdown-menu text-end"
+                        aria-labelledby="navbarDropdown">
+                            <li><a href="#" 
+                            class="dropdown-item">Book Club</a></li>
+                            <li><a href="#"
+                            class="dropdown-item">Coffee Club</a></li>
+                            <li><a href="#"
+                            class="dropdown-item">Meet Ups</a></li>
+                        </ul> 
+                    </li>
+                    <li class="nav-item">
+                        <a href="#" class="nav-link">
+                            Gallery
+                        </a> 
+                    </li>
+                </ul>
+            </div>
+            <form class="d-flex">
+            <input type="text" class="form-control me-2">
+            <button type="submit" class="btn" style="background-color:rgb(245, 228, 242)">Search</button>
+            </form>
+            </div>
+        </nav>
+        <br>
+<div class="container-fluid">
+   <h1 class="text-center">
+    Welcome to the Belfast Girl Gang Website!
+   </h1>
+   <br>
+   <p class="text-center"> 
+   
+    The aim of the Belfast Girl Gang is to bring gals together from across Northern Ireland to make memories, form friendships, and make life a lil' less lonely. <br>
+<br>
+    With over 2100 of us, the Belfast Girl Gang community has your back. 
+   
+<br>
+<br>
+We want this to be a place where everyone can feel comfortable, happy, safe, and at home. This includes welcoming and inclusive to all who identify as a woman or non-binary. 
+
+<br>
+<br>
+This is a safe space, so have fun here, this is OUR community. 
+</p>
+<div class="text-center">
+<img src="bgg.jpeg" class="img-fluid" alt="BGG Logo" width="500" height="500">
+</div>
+<div class="alert alert-info text-center" role="alert">
+    Book Club is coming up soon, don't miss out! Check the Events tab for more info. 
+  </div>
+</div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+
+</div>
+  </body>
+</html>
