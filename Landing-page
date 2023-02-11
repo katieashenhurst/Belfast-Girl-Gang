@@ -124,13 +124,13 @@ This is a safe space, so have fun here, this is OUR community.
     <ol class="carousel-indicators" >
         <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
         <li data-target="#myCarousel" data-slide-to="1"></li>
-    </ol>
+    </ol> 
         <div class="carousel-inner">
             <div class="carousel-item active">
                 <h1>Book Club</h1>
-            <p>Book Club is a monthly meet up organised 
-                by the admins where members come together 
-                to discuss the book topic assigned to that 
+            <p>A monthly admin organised 
+                meet up where members come together 
+                to discuss the book topic of the 
                 month. </p>
             <div class="text-start">
                 <a href="#" class="btn btn-lg btn-light">Check it out!
